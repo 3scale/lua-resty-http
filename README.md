@@ -20,6 +20,7 @@ Production ready.
 * Trailers
 * HTTP proxy connections
 * mTLS (requires `ngx_lua_http_module` >= v0.10.23)
+* W3C trace context propagation via `traceparent` header (>= v0.18.0)
 
 
 ## API
